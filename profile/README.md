@@ -1,6 +1,6 @@
 # Making it easy to build LXMF bots for reticulum.
 
-https://lxfmy.quad4.io
+https://lxmfy.quad4.io
 
 ## Contact
 
